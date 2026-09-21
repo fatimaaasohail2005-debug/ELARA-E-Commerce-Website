@@ -1,4 +1,4 @@
-const API_BASE = "https://elara-backend-production.up.railway.app/api";
+const API_BASE = "https://elara-backend-production-2508.up.railway.app/api";
 
 // ============================================================
 // GET ALL PRODUCTS
